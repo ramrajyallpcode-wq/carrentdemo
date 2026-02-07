@@ -118,7 +118,7 @@ const Aboutus = () => {
                 />
                 <div className="absolute top-6 left-6 bg-white/95 text-gray-900 px-5 py-2 rounded-full text-sm font-semibold shadow-lg flex items-center gap-2">
                   <span className="inline-block w-2 h-2 rounded-full bg-green-500 animate-pulse"></span>
-                  Serving city • 10+ years
+                  Serving city • 10+ year
                 </div>
                 <figcaption className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/80 to-transparent p-6">
                   <p className="text-white text-lg font-semibold">
