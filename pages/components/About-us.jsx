@@ -110,7 +110,7 @@ const Aboutus = () => {
             <section className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
               <figure className="relative order-2 lg:order-1 h-[360px] sm:h-[450px] lg:h-[560px] rounded-[32px] overflow-hidden shadow-2xl shadow-yellow-500/10 border border-white">
                 <Image
-                  src="/images/founder.jpeg"
+                  src="/images/"
                   alt="Founder of our cab services standing beside a premium cab in city"
                   fill
                   className="object-cover"
@@ -124,9 +124,7 @@ const Aboutus = () => {
                   <p className="text-white text-lg font-semibold">
                     “Our drivers are the heart of every safe arrival.”
                   </p>
-                  <p className="text-white/70 text-sm mt-1">
-                    Founder - Vishwas Kanade{" "}
-                  </p>
+                  <p className="text-white/70 text-sm mt-1">Founder - Name </p>
                 </figcaption>
               </figure>
 
